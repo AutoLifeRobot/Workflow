@@ -27,7 +27,7 @@ export default function RootLayout({
         <div style={{ display: 'flex', justifyContent: 'space-between' }}>
           <ul>
             <li>
-              <Link href="/">
+              <Link href="/en">
                 <button style={{
                   padding: '5px 10px',
                   backgroundColor: '#0070f3',
